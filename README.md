@@ -1,3 +1,6 @@
+This is just a line added by me to change the file and commit
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
